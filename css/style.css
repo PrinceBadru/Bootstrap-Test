@@ -1,0 +1,15 @@
+/*Navbar*/
+.navbar-brand {
+    color: #6070FF;
+}
+
+.nav-link {
+    color: #344563;
+}
+
+
+/*Main Styles*/
+.main-container {
+    background: url("img/Headerbg@2x.png");
+    background-repeat: no-repeat;
+}
