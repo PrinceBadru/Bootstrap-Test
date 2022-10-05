@@ -1,4 +1,4 @@
-# Linters Config
+# Bootstrap test
 
 This project is to test out bootstrap.
 
